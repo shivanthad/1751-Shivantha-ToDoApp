@@ -1,2 +1,2 @@
-# 1751-Shivantha-ToDoApp
-ToDoApp
+# ToDoApp
+ Task App for AMDT
